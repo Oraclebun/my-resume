@@ -4,6 +4,7 @@ node_modules/
 *.json
 */css/*.json
 **/css/*.json
+*.json
 /scss/
-*/scss/*.css.map
-*/scss/*.css
+*/css/scss/*.css.map
+*/css/scss/*.css
