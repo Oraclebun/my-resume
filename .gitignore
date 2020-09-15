@@ -3,6 +3,7 @@ node_modules/
 */css/node_modules/*
 *.json
 */css/*.json
+**/css/*.json
 /scss/
 */scss/*.css.map
 */scss/*.css
